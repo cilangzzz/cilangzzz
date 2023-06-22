@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there is Cilang👋
+<div align=center></br></br></br>
+  # some guy being there
+  ![Visitor Count](https://profile-counter.glitch.me/OpencvLZG/count.svg)
+</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OpencvLZG&layout=compact)](https://github.com/OpencvLZG/github-readme-stats)
+![OpencvLZG's GitHub stats](https://github-readme-stats.vercel.app/api?username=OpencvLZG&show_icons=true&theme=tokyonight)
 
 <!--
 **OpencvLZG/OpencvLZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
