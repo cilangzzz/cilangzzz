@@ -107,6 +107,10 @@
 
 
 ## Github Stats  
+<center class="half">
+    <img src="https://github-readme-stats.vercel.app/api?username=OpencvLZG&show_icons=true&theme=tokyonight" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpencvLZG&show_icons=true&theme=tokyonight" width="300"/>
+</center>
 ![](https://github-readme-stats.vercel.app/api?username=OpencvLZG&show_icons=true&theme=tokyonight)  
   
 
