@@ -106,11 +106,18 @@
 <br/>  
 
 
-## Github Stats  
-<center class="half">
-    <img src="https://github-readme-stats.vercel.app/api?username=OpencvLZG&show_icons=true&theme=tokyonight" heiht="300"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpencvLZG&show_icons=true&theme=tokyonight" heiht="300"/>
-</center>
+## Github Stats
+<table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OpencvLZG&show_icons=true&theme=tokyonight" heiht="300"/>
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=OpencvLZG&show_icons=true&theme=tokyonight" heiht="300"/>
+            </td>
+        </tr>
+</table>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=OpencvLZG&show_icons=true&theme=tokyonight)  
   
