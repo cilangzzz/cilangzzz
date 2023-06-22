@@ -117,9 +117,11 @@
 
 
 ## Recent Blog Posts  
-
-<div class="align">
+<div>
   ### totsl visitor
+</div>
+<div class="align">
+  
   ![](https://profile-counter.glitch.me/OpencvLZG/count.svg)  
 </div>
 
