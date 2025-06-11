@@ -6,11 +6,6 @@
 ### <div align="center">I'm Cilang, a full-time full-stack freelance developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [CiProxy](https://github.com/OpencvLZG/CiProxy)  
-  
-
-- 🌱 I’m currently learning Golang  
-  
 
 <br/>  
 
