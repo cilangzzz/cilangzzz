@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">suspend fun wait()</div>  
+### <div align="center"></div>  
   
 
 
