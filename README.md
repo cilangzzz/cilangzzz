@@ -156,10 +156,6 @@
 
 <!--
 **OpencvLZG/OpencvLZG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-樱花不及李姑娘
-li
-yuan
-rong
 Here are some ideas to get you started:
 
 
