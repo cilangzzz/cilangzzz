@@ -82,10 +82,10 @@ hobbies:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=cilangzzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-one-rosy.vercel.app/api?username=cilangzzz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cilangzzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+      <img src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=cilangzzz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
     </td>
   </tr>
   <tr>
@@ -99,11 +99,15 @@ hobbies:
 
 <br/>
 
-## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEbv/giphy.gif" width="30">&nbsp; GitHub Trophies
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEbv/giphy.gif" width="30">&nbsp; GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cilangzzz&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" />
+<img src="https://img.shields.io/github/followers/cilangzzz?style=social" />&nbsp;
+<img src="https://img.shields.io/github/stars/cilangzzz?style=social" />&nbsp;
+<img src="https://img.shields.io/github/forks/cilangzzz?style=social" />&nbsp;
+<img src="https://img.shields.io/github/last-commit/cilangzzz" />&nbsp;
+<img src="https://img.shields.io/github/license/cilangzzz" />
 
 </div>
 
