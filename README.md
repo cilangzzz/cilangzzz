@@ -103,11 +103,15 @@ hobbies:
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/cilangzzz?style=social" />&nbsp;
-<img src="https://img.shields.io/github/stars/cilangzzz?style=social" />&nbsp;
-<img src="https://img.shields.io/github/forks/cilangzzz?style=social" />&nbsp;
-<img src="https://img.shields.io/github/last-commit/cilangzzz" />&nbsp;
-<img src="https://img.shields.io/github/license/cilangzzz" />
+<a href="https://github.com/cilangzzz?tab=followers">
+  <img src="https://img.shields.io/github/followers/cilangzzz?style=for-the-badge&logo=github&color=181717&label=Followers" />
+</a>&nbsp;
+<a href="https://github.com/cilangzzz?tab=repositories">
+  <img src="https://img.shields.io/github/repos/cilangzzz?style=for-the-badge&logo=github&color=181717&label=Repos" />
+</a>&nbsp;
+<a href="https://github.com/cilangzzz">
+  <img src="https://img.shields.io/github/last-commit/cilangzzz?style=for-the-badge&color=58a6ff&label=Last+Commit" />
+</a>
 
 </div>
 
